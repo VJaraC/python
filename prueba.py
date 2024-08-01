@@ -1,5 +1,3 @@
-"""import sys"""
+import math
 
-
-print ("Hola gays")
-
+print (math.floor(1.9))
